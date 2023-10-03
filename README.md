@@ -7,3 +7,5 @@ There are four recognized triathlon distances, with the most common being the "s
 Triathlons require a high degree of physical fitness, endurance and mental toughness. Races can take place in various settings, such as open water, closed circuits, or on city streets. The sport has grown in popularity in recent years, with participation by both amateurs and elite athletes all around the world."
 
 Source: https://www.kaggle.com/datasets/vladislavboyadzhi/triathlon-results
+
+More info: https://www.triathlete.com/training/race-tips/understanding-cutoff-times-in-triathlon/
